@@ -1,0 +1,16 @@
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\bin\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.deps.json
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\bin\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.dll
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\bin\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.pdb
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.csproj.CoreCompileInputs.cache
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.AssemblyInfoInputs.cache
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.AssemblyInfo.cs
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.dll
+c:\users\fahri\source\repos\KeyCloakSSODotnetCore\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.pdb
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\bin\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.deps.json
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\bin\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.dll
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\bin\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.pdb
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.AssemblyInfoInputs.cache
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.AssemblyInfo.cs
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.dll
+C:\Users\fahri\source\repos\KeyCloakSSODotnetCore\Helpers\KeyCloakSSODotnetCore.Helpers\obj\Debug\netcoreapp2.2\KeyCloakSSODotnetCore.Helpers.pdb

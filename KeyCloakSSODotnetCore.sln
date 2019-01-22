@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OAuthServer", "OAuthServer", "{73472346-EBDC-4872-A4AA-6523A6C43DBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{9E64B124-16B2-4E74-A107-8C3562602AFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DB24E733-4EDD-4B18-AE3F-21D4C70E2278}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{6B73E35D-DBDB-4CEE-B5CC-06E6084F73B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyCloakSSODotnetCore.Clients.WebAPI1", "Clients\KeyCloakSSODotnetCore.Clients.WebAPI1\KeyCloakSSODotnetCore.Clients.WebAPI1.csproj", "{1426B275-8D8D-4BBB-8FAC-49FB1180577D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyCloakSSODotnetCore.Clients.WebAPI2", "Clients\KeyCloakSSODotnetCore.Clients.WebAPI2\KeyCloakSSODotnetCore.Clients.WebAPI2.csproj", "{7A4E1C0F-C6D7-4D9D-9B3A-CF451986D8A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyCloakSSODotnetCore.Helpers", "Helpers\KeyCloakSSODotnetCore.Helpers\KeyCloakSSODotnetCore.Helpers.csproj", "{E403BB99-A6C2-4683-B2BE-74D872B0C944}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyCloakSSODotnetCore.OAuth.API", "OAuthServer\KeyCloakSSODotnetCore.OAuth.API\KeyCloakSSODotnetCore.OAuth.API.csproj", "{C98F0BD6-6219-4F81-850F-1BB3D94952BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyCloakSSODotnetCore.Console", "Tests\KeyCloakSSODotnetCore.Console\KeyCloakSSODotnetCore.Console.csproj", "{342E031B-9809-4792-81DA-6DB47F43C0C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1426B275-8D8D-4BBB-8FAC-49FB1180577D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1426B275-8D8D-4BBB-8FAC-49FB1180577D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1426B275-8D8D-4BBB-8FAC-49FB1180577D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1426B275-8D8D-4BBB-8FAC-49FB1180577D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4E1C0F-C6D7-4D9D-9B3A-CF451986D8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4E1C0F-C6D7-4D9D-9B3A-CF451986D8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4E1C0F-C6D7-4D9D-9B3A-CF451986D8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4E1C0F-C6D7-4D9D-9B3A-CF451986D8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E403BB99-A6C2-4683-B2BE-74D872B0C944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E403BB99-A6C2-4683-B2BE-74D872B0C944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E403BB99-A6C2-4683-B2BE-74D872B0C944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E403BB99-A6C2-4683-B2BE-74D872B0C944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98F0BD6-6219-4F81-850F-1BB3D94952BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98F0BD6-6219-4F81-850F-1BB3D94952BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98F0BD6-6219-4F81-850F-1BB3D94952BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98F0BD6-6219-4F81-850F-1BB3D94952BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342E031B-9809-4792-81DA-6DB47F43C0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E031B-9809-4792-81DA-6DB47F43C0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E031B-9809-4792-81DA-6DB47F43C0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E031B-9809-4792-81DA-6DB47F43C0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1426B275-8D8D-4BBB-8FAC-49FB1180577D} = {6B73E35D-DBDB-4CEE-B5CC-06E6084F73B9}
+		{7A4E1C0F-C6D7-4D9D-9B3A-CF451986D8A3} = {6B73E35D-DBDB-4CEE-B5CC-06E6084F73B9}
+		{E403BB99-A6C2-4683-B2BE-74D872B0C944} = {9E64B124-16B2-4E74-A107-8C3562602AFD}
+		{C98F0BD6-6219-4F81-850F-1BB3D94952BF} = {73472346-EBDC-4872-A4AA-6523A6C43DBA}
+		{342E031B-9809-4792-81DA-6DB47F43C0C0} = {DB24E733-4EDD-4B18-AE3F-21D4C70E2278}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3820900B-1AB2-494D-ADF0-4922B7D9558B}
+	EndGlobalSection
+EndGlobal
